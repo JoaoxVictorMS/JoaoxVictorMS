@@ -3,6 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+João+Victor!;" />
 </h1>
 
+<hr/>
+
+<h2 align="center">⚡ Status ⚡</h2>
+<br/>
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=joaoxvictorms&locale=pt-br&hide_border=true&theme=transparent&show_icons=true$">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaoxvictorms&locale=pt-br&hide_border=true&theme=transparent&show_icons=true$"/>
