@@ -34,7 +34,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Cobrinha dos Commits 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/joaoxvictorms/joaoxvictorms/blob/output/github-contribution-grid-snake.gif"/>
   <br/><br/><br/>
