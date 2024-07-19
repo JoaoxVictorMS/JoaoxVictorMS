@@ -12,6 +12,8 @@
   </a>
 </div>
 
+<hr/>
+
 <div align="center"><br>
   <a href="https://www.instagram.com/jvictor.mont/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joao.victorms2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -28,3 +30,12 @@
     <img align="center" alt="Bootstap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
 </div>
 <br/>
+
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/joaoxvictorms/joaoxvictorms/blob/output/github-contribution-grid-snake.gif"/>
+  <br/><br/><br/>
+</div>
