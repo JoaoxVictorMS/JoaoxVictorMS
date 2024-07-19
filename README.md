@@ -1,4 +1,4 @@
-## OLá! Seja bem vindo ao meu GitHub!
+## Olá! Seja bem vindo ao meu GitHub!
 
 <a href="https://github-readme-stats.vercel.app/api?username=joaoxvictorms&locale=pt-br&hide_border=true&theme=transparent&show_icons=true$">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joaoxvictorms&locale=pt-br&hide_border=true&theme=transparent&show_icons=true$"/>
