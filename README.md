@@ -1,7 +1,5 @@
 
-
-# João Victor Monteiro Santos
-
+<h1 align="center">João Victor Monteiro Santos</h1>
 
 <div align="center">
 
